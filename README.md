@@ -1,1 +1,0 @@
-# PSoC4-MCU_Getting_Started
